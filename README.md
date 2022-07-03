@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Metrics](/github-metrics.svg)
 
-金城翔太郎っていいます
+
