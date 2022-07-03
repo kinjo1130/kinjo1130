@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![](./profile-3d-contrib/profile-green.svg)
 
 ![Metrics](/github-metrics.svg)
+
+金城翔太郎っていいます
