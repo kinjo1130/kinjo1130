@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [株式会社OHMYGOD](https://ohmygod.jp/)
 
-- 🌱 I’m currently learning **Python3**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [kinjyo1130.vercel.app](kinjyo1130.vercel.app)
 
