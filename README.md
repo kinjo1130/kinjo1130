@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [kinjyo1130.vercel.app](kinjyo1130.vercel.app)
+- 👨‍💻 All of my projects are available at [kinjyo1130.vercel.app](https://kinjyo1130.vercel.app)
 
 - 📫 How to reach me **abcshotaro616@gmail.com**
 
