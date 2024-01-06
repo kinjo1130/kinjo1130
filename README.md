@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kinjo shotaro</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kinjo1130&label=Profile%20views&color=0e75b6&style=flat" alt="afuro-1130" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kinjo1130&label=Profile%20views&color=0e75b6&style=flat" alt="kinjo1130" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinjo1130" alt="afuro-1130" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [株式会社OHMYGOD](https://ohmygod.jp/)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Nest.js**
 
 - 👨‍💻 All of my projects are available at [kinjyo1130.vercel.app](https://kinjyo1130.vercel.app)
 
