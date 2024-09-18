@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/kinjyo1130" target="blank"><img src="https://img.shields.io/twitter/follow/kinjyo1130?logo=twitter&style=for-the-badge" alt="kinjyo1130" /></a> </p>
 
-- 🔭 I’m currently working on [株式会社OHMYGOD](https://ohmygod.jp/)
+- 🔭 I’m currently working on [株式会社OHMYGOD](https://ohmygod.jp/) & [株式会社Helpfeel](https://helpfeel.com) & [Tavern株式会社](https://tavern.co.jp)
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Nothing**
 
-- 👨‍💻 All of my projects are available at [kinjyo1130.vercel.app](https://kinjyo1130.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://kinjo.me)
 
 - 📫 How to reach me **abcshotaro616@gmail.com**
 
