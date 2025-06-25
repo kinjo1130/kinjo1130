@@ -257,7 +257,7 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
-                            <div class="label" title="">google</div>
+                            <div class="label" title="Google LLC is an American multinational technology company that specializes in Internet-related services and products.">google</div>
                         </div>
                     </section>
                 </div>
@@ -509,7 +509,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jun 2025, 05:22:39 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jun 2025, 06:19:04 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
