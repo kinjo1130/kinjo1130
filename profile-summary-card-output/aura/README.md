@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/kinjo1130/kinjo1130/main/profile-summary-card-output/aura/4-productive-time.svg)
+```
+
+    
